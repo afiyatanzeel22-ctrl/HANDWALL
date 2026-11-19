@@ -59,7 +59,6 @@ Allow webcam access when prompted.
 | Gesture / Key | Action |
 |---|---|
 | Pinch thumb and index | Start writing |
-| Move index finger | Draw |
 | Release pinch | Stop writing |
 | C | Clear canvas |
 | Q | Quit application |
